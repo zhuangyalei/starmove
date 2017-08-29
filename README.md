@@ -1,6 +1,6 @@
 # starmove 原生运动函数的封装
 ## 传参
-### init{
+### init：{
   el:, 运动元素
 	target:{}, 运动目标点
 	time:, 运动时间
